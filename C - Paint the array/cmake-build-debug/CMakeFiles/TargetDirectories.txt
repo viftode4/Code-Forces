@@ -1,0 +1,3 @@
+F:/Code-Forces/C - Paint the array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/Code-Forces/C - Paint the array/cmake-build-debug/CMakeFiles/C___Paint_the_array.dir
+F:/Code-Forces/C - Paint the array/cmake-build-debug/CMakeFiles/edit_cache.dir
