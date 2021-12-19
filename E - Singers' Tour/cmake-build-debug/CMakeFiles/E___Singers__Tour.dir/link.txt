@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\E___Singers__Tour.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\E___Singers__Tour.dir/objects.a @CMakeFiles\E___Singers__Tour.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\E___Singers__Tour.dir/objects.a -Wl,--no-whole-archive -o E___Singers__Tour.exe -Wl,--out-implib,libE___Singers__Tour.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\E___Singers__Tour.dir\linklibs.rsp

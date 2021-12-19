@@ -1,0 +1,3 @@
+F:/Code-Forces/D - Array and Operations/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Code-Forces/D - Array and Operations/cmake-build-debug/CMakeFiles/D___Array_and_Operations.dir
+F:/Code-Forces/D - Array and Operations/cmake-build-debug/CMakeFiles/rebuild_cache.dir

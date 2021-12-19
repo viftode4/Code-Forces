@@ -1,0 +1,3 @@
+F:/Code-Forces/A - Life of a Flower/cmake-build-debug/CMakeFiles/A___Life_of_a_Flower.dir
+F:/Code-Forces/A - Life of a Flower/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Code-Forces/A - Life of a Flower/cmake-build-debug/CMakeFiles/rebuild_cache.dir
